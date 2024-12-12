@@ -1,0 +1,14 @@
+python main.py \
+--train \
+--dataset 'coco' \
+--num_class '80' \
+--warmup_epochs 30 \
+--gpu 7 \
+--lr 0.01 \
+--bit 32 \
+--noise_level 0.4 \
+--seed 1401 \
+--alpha 1 \
+--beta 0.2 \
+--gamma 5 \
+--eta 1.2

@@ -1,0 +1,14 @@
+python main.py \
+--train \
+--dataset 'nuswide' \
+--num_class '21 ' \
+--warmup_epochs 5 \
+--gpu 7 \
+--lr 0.001 \
+--bit 32 \
+--noise_level 0.4 \
+--seed 1618 \
+--alpha 1 \
+--beta 0.05 \
+--gamma 5 \
+--eta 1.5
