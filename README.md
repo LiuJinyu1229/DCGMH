@@ -1,2 +1,2 @@
 # DCGMH
-The code of "Distribution-Consistency-Guided Multi-modal Hashing"
+The source code of "Distribution-Consistency-Guided Multi-modal Hashing" (Accepted by AAAI 2025)
